@@ -1,11 +1,12 @@
 # Counterspell singles
 
 ## a game
-I used the same design as in counterspell. 
+I used the same design as in counterspell Silcon Valley 2024. 
 
 ## what is it?
 Theoretically, the mc tries to escape this weird world by fighting off enemies and difficult platform 'levels'
 Each provide a different 'style' that makes this game unique. 
+Mainly, the character has to jump through many hoops to get to the END.
 
 ## controls
 use WASD or arrow keys
